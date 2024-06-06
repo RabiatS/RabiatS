@@ -3,7 +3,7 @@
 
 <!-- **RabiatS/RabiatS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Computer Engineer at <a href="http://www.unb.br">University of Texas at San Antonio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Computer Engineer at <a href="https://www.utsa.edu/">University of Texas at San Antonio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 Here are some ideas to get you started:
 - 
