@@ -15,6 +15,9 @@ I am Rabiat 😊, an aspiring Computer Engineer and AI/ML enthusiast from Housto
 🔭 I'm working on:
 - AI-empowered VR content analysis for safer virtual environments
 - Applying AI/ML techniques to develop innovative solutions
+- Some personal projects
+- Doing cool things 😎
+- Sleeping
 
 🌱 I'm currently learning:
 - Swift, Xcode, and Apple's frameworks
