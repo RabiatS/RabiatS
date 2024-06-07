@@ -3,10 +3,10 @@
 
 <!-- **RabiatS/RabiatS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
-<p><em>Computer Engineer at <a href="https://www.utsa.edu/">University of Texas at San Antonio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Computer Engineer / cs minor at <a href="https://www.utsa.edu/">University of Texas at San Antonio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-Here are some ideas to get you started:
-I am Rabiat, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX. This summer, I am excited to be participating in the prestigious Apple NACME Artificial Intelligence and Machine Learning (AIML) Intensive program at the University of Southern California!
+
+I am Rabiat 😊, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX. This summer, I am excited to be participating in the prestigious Apple NACME Artificial Intelligence and Machine Learning (AIML) Intensive program at the University of Southern California!
 
 🔭 I'm currently working on:
 - Conducting research in AI-empowered VR content analysis for safer virtual environments
@@ -39,7 +39,7 @@ I am Rabiat, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX
 ⚡ Fun fact:
 I'm a big fan of science fiction and psychological movies/tv shows, Virtual Reality and sleep, especially sleep!😊
 
-<iframe src="https://giphy.com/embed/JZ40cnfnN11KycrvMF" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/UICWIEP-chicago-spring-break-girls-who-code-JZ40cnfnN11KycrvMF">via GIPHY</a></p>
+
 
 currently listening to on Spotify:
 
