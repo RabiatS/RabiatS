@@ -2,19 +2,44 @@
 
 
 <!-- **RabiatS/RabiatS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
 <p><em>Computer Engineer at <a href="https://www.utsa.edu/">University of Texas at San Antonio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 Here are some ideas to get you started:
-- 
-- 🔭 I’m currently working on some cool stuff 😎
-- 🌱 I’m currently learning Python, Artificial intelligence and Machine Learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am Rabiat, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX. This summer, I am excited to be participating in the prestigious Apple NACME Artificial Intelligence and Machine Learning (AIML) Intensive program at the University of Southern California!
+
+🔭 I'm currently working on:
+- Conducting research in AI-empowered VR content analysis for safer virtual environments
+- Applying AI/ML techniques to develop innovative solutions during the AIML Intensive
+
+🌱 I'm currently learning:
+- Swift programming and Xcode development environment
+- Cutting-edge AI/ML technologies and Apple's frameworks
+- Linear algebra, statistical distributions, and data science methodologies
+
+👯 I'm looking to collaborate on:
+- Innovative AI/ML projects that push boundaries and create real-world impact
+- Open-source initiatives related to virtual reality, educational technology, or ethical AI
+
+🤔 I'm looking for help with:
+- Optimizing machine learning models for performance and scalability
+- Integrating Apple's latest APIs and frameworks into my projects
+
+💬 Ask me about:
+- My experience as an Apple Scholar and Google Software Product Sprint participant
+- Developing interactive VR games and applications using Unity...and anything virtual reality related
+- Exploring the potential of AI in addressing social challenges and education
+
+📫 How to reach me:
+- Email: robbiahsadiq@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rabiat-sadiq/
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact:
+I'm a big fan of science fiction and psychological movies/tv shows, Virtual Reality and sleep, especially sleep!😊
+
+<iframe src="https://giphy.com/embed/JZ40cnfnN11KycrvMF" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/UICWIEP-chicago-spring-break-girls-who-code-JZ40cnfnN11KycrvMF">via GIPHY</a></p>
 
 currently listening to on Spotify:
 
