@@ -6,6 +6,10 @@
 <p><em>Computer Engineer / CS minor at <a href="https://www.utsa.edu/">University of Texas at San Antonio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
+[![Linkedin: Rabiatsadiq](https://img.shields.io/badge/-rabiatsadiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabiat-sadiq/)](https://www.linkedin.com/in/rabiat-sadiq/)
+[![GitHub RabiatS](https://img.shields.io/github/followers/rabiats?label=follow&style=social)](https://github.com/RabiatS)
+
+
 I am Rabiat 😊, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX. This summer, I am excited to be participating in the prestigious Apple NACME Artificial Intelligence and Machine Learning (AIML) Intensive program at the University of Southern California!
 
 🔭 I'm working on:
