@@ -17,13 +17,13 @@ I am Rabiat 😊, an aspiring Computer Engineer and AI/ML enthusiast from Housto
 - Cutting-edge AI/ML technologies and Apple's frameworks
 - Linear algebra, statistical distributions, and data science methodologies
 
-👯 I'm looking to collaborate on:
+<!-- 👯 I'm looking to collaborate on:
 - Innovative AI/ML projects that push boundaries and create real-world impact
 - Open-source initiatives related to virtual reality, educational technology, or ethical AI
 
 🤔 I'm looking for help with:
 - Optimizing machine learning models for performance and scalability
-- Integrating Apple's latest APIs and frameworks into my projects
+- Integrating Apple's latest APIs and frameworks into my projects  -->
 
 💬 Ask me about:
 - My experience as an Apple Scholar and Google Software Product Sprint participant
