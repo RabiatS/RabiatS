@@ -22,6 +22,7 @@ I am Rabiat 😊, an aspiring Computer Engineer and AI/ML enthusiast from Housto
 🌱 I'm currently learning:
 - Swift, Xcode, and Apple's frameworks
 - Linear algebra, statistical distributions, and data science methodologies
+- Applied Machine learning
 
 💬 Ask me about:
 - My experience as an Apple Scholar and Google Software Product Sprint participant
