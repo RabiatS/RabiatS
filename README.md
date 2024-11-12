@@ -13,7 +13,7 @@
 I am Rabiat 😊, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX. This summer, I am excited to be participating in the prestigious Apple NACME Artificial Intelligence and Machine Learning (AIML) Intensive program at the University of Southern California!
 
 🔭 I'm working on:
-- AI-empowered VR content analysis for safer virtual environments
+- Affordable and Immersive VR Gloves 
 - Applying AI/ML techniques to develop innovative solutions
 - Some personal projects
 - Doing cool things 😎
@@ -25,7 +25,7 @@ I am Rabiat 😊, an aspiring Computer Engineer and AI/ML enthusiast from Housto
 - Applied Machine learning
 
 💬 Ask me about:
-- My experience as an Apple Scholar and Google Software Product Sprint participant
+- My experiences as an Apple Scholar and Google Software Product Sprint participant
 - Developing interactive VR games and applications using Unity (and anything VR!)
 - Exploring AI's potential in addressing social challenges and education
 
