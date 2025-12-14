@@ -1,54 +1,87 @@
-## Hi there, I am Rabiat 👋  
+## Hi, I am Rabiat 👋🏾
+
+<!-- <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/> -->
+<!-- <img align="right" src="https://github.com/user-attachments/assets/5c68c4fd-2c74-45fb-93ff-11b75393c440" width="230"/> -->
+
+<img align="right" src="https://github.com/user-attachments/assets/cdf7b5fb-a155-4112-968c-b1071dbb8872" width="230"/>
 
 
-<!-- **RabiatS/RabiatS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
-<p><em>Computer Engineer / CS minor at <a href="https://www.utsa.edu/">University of Texas at San Antonio</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
-[![Linkedin: Rabiatsadiq](https://img.shields.io/badge/-rabiatsadiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabiat-sadiq/)](https://www.linkedin.com/in/rabiat-sadiq/)
+**MS Human-Computer Interaction (CMU)** | **BS Computer Engineering + CS minor (UTSA)**  
+Engineer across software, hardware, AI and XR. Experience in ML/CV, XR prototyping, mobile, and full-stack systems. Fast learner and strong builder. I like projects where I can connect multiple disciplines, ship something real, and keep learning.
+Especially when it means turning messy problems into usable tools
+
+[![Linkedin: Rabiatsadiq](https://img.shields.io/badge/-rabiatsadiq-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rabiat-sadiq/)
 [![GitHub RabiatS](https://img.shields.io/github/followers/rabiats?label=follow&style=social)](https://github.com/RabiatS)
+📫 **Email:** robbiahsadiq@gmail.com
 
+---
 
-I am Rabiat 😊, an aspiring Computer Engineer and AI/ML enthusiast from Houston, TX. This summer, I am excited to be participating in the prestigious Apple NACME Artificial Intelligence and Machine Learning (AIML) Intensive program at the University of Southern California!
+### What I work on 🧠⚙️
+- **Applied ML / CV / Video pipelines** (OpenCV, FFmpeg, Ray, Databricks, PySpark, MLflow, AWS S3)
+- **XR prototyping** in Unity (C#) with a human-centered focus (perception, interaction, accessibility)
+- **AI product systems** (LLM-backed tools that are grounded in real app context)
 
-🔭 I'm working on:
-- Affordable and Immersive VR Gloves 
-- Applying AI/ML techniques to develop innovative solutions
-- Some personal projects
-- Doing cool things 😎
-- Sleeping
+### Featured projects 🚀
 
-🌱 I'm currently learning:
-- Swift, Xcode, and Apple's frameworks
-- Linear algebra, statistical distributions, and data science methodologies
-- Applied Machine learning
+- **Assuage (iOS): Sensing → ML distress prediction**  
+  HealthKit biometrics → real-time distress prediction with on-device inference (Swift/Core ML patterns)
+- **Magic Mitts: affordable haptic VR glove (Capstone)**  
+  Flex sensing, Hand Tracking + electromagnetic braking + Unity integration (1st place UTSA Tech Symposium)
+- **PlayStation: Gameplay video context extraction (internship)**  
+  Scalable video pipeline using S3, Ray, FFmpeg, OpenCV/OCR, Databricks/PySpark, MLflow 
+- **Magic Mitts: affordable haptic VR glove (Capstone)**  
+  Flex sensing + electromagnetic braking + Unity integration (1st place UTSA Tech Symposium)
+- **VR Music Visualizer (Unity / Quest 2)**  
+  Interactive music-reactive VR visuals with planned hand-tracking interactions
+- **Computer Vision projects**  
+  YOLOv5 vehicle detection + CNN-based image classification work (NACME)
+- **Talky Talky (Google SPS)**  
+  Audio-responsive web app to support non-verbal kids using Text-to-Speech APIs
+<!--
+- **Applied STEM (Startup): context-aware circuit interview mentor**  
+  React/TypeScript + FastAPI + LLMs grounded in circuit state + simulation outputs for adaptive hints
 
-💬 Ask me about:
-- My experiences as an Apple Scholar and Google Software Product Sprint participant
-- Developing interactive VR games and applications using Unity (and anything VR!)
-- Exploring AI's potential in addressing social challenges and education
+> I am currently cleaning up repos and adding short READMEs + demos for the projects above.
+-->
+---
+### Toolbelt 🧰
 
-📫 How to reach me:
-- Email: robbiahsadiq@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rabiat-sadiq/
+| Area | Tools |
+|---|---|
+| **Languages** | Python • C++ • C • Swift • Java • TypeScript/JavaScript • SQL |
+| **ML / CV** | PyTorch • TensorFlow • scikit-learn • OpenCV • NumPy • pandas • EDA • model evaluation |
+| **Video / Data** | FFmpeg • Ray • Databricks • PySpark • MLflow • AWS S3 • Snowflake |
+| **XR / 3D** | Unity (C#) • Meta XR SDK • VR prototyping |
+| **Mobile** | iOS (HealthKit, Core ML) • Android (Firebase, SQLite) |
+| **Build / Collab** | Git/GitHub • Docker • CI/CD • Jira • Confluence • Jupyter |
 
+<details>
+  <summary><b>Also used</b></summary>
 
-### Currently listening to on Spotify:
+- **Deep Learning:** CNNs, transfer learning, autoencoders, RNNs, embeddings  
+- **Classical ML:** clustering (k-means), PCA, SVM, decision trees, fairness/responsible AI  
+- **Hardware / Embedded:** Arduino, Raspberry Pi, ESP32, sensors, Verilog, PSpice, MATLAB  
+</details>
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&redirect=true)  -->
+---
 
-<!--  line before: href="https://spotify-github-profile.vercel.app/api/view? -->
+### Programs and experience  🎓
+- **Applied ML Intern (PlayStation)** — video pipeline + scalable processing (S3, Ray, FFmpeg, OpenCV, Databricks)
+- **Apple NACME AI/ML Intensive (USC)** — 35 hands-on ML projects across CV, NLP, clustering, deep learning
+- **Google SPS (2022)** — built “Talky Talky” (audio-responsive web app for non-verbal kids)
+
+---
+
+<!-- Spotify Now Playing (optional) -->
+
 <div align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
-    
   </a>
 </div>
 
 
-😄 Pronouns: She/Her
-
-⚡ Fun fact:
-I'm a big fan of science fiction and psychological movies/tv shows, Virtual Reality and sleep, especially sleep!😊
-
+😄 **Pronouns:** she/her  
+⚡ **Fun fact:** I love sci-fi + psychological movies, XR, and sleep (in that order 😄...backwards)
