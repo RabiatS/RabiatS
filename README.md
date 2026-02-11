@@ -25,14 +25,19 @@ Especially when it means turning messy problems into usable tools
 
 ### Featured projects 🚀
 
+<!--
+- **Amazon Music: Project Manager & Engineer**  
+CMU MHCI capstone project partnering with Amazon Music to explore and enhance the music discovery experience.
+- **Microsoft XBOX: Technical Researcher**
+Research collaboration with Xbox exploring AI-driven approaches to measure and understand social interactions in gaming environments.
+-->
+
 - **Assuage (iOS): Sensing → ML distress prediction**  
   HealthKit biometrics → real-time distress prediction with on-device inference (Swift/Core ML patterns)
 - **Magic Mitts: affordable haptic VR glove (Capstone)**  
   Flex sensing, Hand Tracking + electromagnetic braking + Unity integration (1st place UTSA Tech Symposium)
 - **PlayStation: Gameplay video context extraction (internship)**  
   Scalable video pipeline using S3, Ray, FFmpeg, OpenCV/OCR, Databricks/PySpark, MLflow 
-- **Magic Mitts: affordable haptic VR glove (Capstone)**  
-  Flex sensing + electromagnetic braking + Unity integration (1st place UTSA Tech Symposium)
 - **VR Music Visualizer (Unity / Quest 2)**  
   Interactive music-reactive VR visuals with planned hand-tracking interactions
 - **Computer Vision projects**  
@@ -62,7 +67,8 @@ Especially when it means turning messy problems into usable tools
 
 - **Deep Learning:** CNNs, transfer learning, autoencoders, RNNs, embeddings  
 - **Classical ML:** clustering (k-means), PCA, SVM, decision trees, fairness/responsible AI  
-- **Hardware / Embedded:** Arduino, Raspberry Pi, ESP32, sensors, Verilog, PSpice, MATLAB  
+- **Hardware / Embedded:** Arduino, Raspberry Pi, ESP32, sensors, Verilog, PSpice, MATLAB
+- Figma, AWS, Vercel, Claude, cursor, AR Smart Glasses, Notion, Multimodal- ML
 </details>
 
 ---
