@@ -80,7 +80,7 @@ Research collaboration with Xbox exploring AI-driven approaches to measure and u
 - **Apple NACME AI/ML Intensive (USC)** — 35 hands-on ML projects across CV, NLP, clustering, deep learning
 - **Google SPS (2022)** — built “Talky Talky” (audio-responsive web app for non-verbal kids)
 
-## Currently
+#### Currently
 
 - 🎓 MHCI @ CMU - research, capstone (Amazon Music), XR lab
 - 🔬 Research Assistant @ CMU Augmented Perception Lab - multimodal XR + pain perception
