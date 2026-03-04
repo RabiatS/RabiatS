@@ -15,6 +15,7 @@ Engineer across software, hardware, AI and XR. Experience in ML/CV, XR prototypi
 
 [![Linkedin: Rabiatsadiq](https://img.shields.io/badge/-rabiatsadiq-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rabiat-sadiq/)
 [![GitHub RabiatS](https://img.shields.io/github/followers/rabiats?label=follow&style=social)](https://github.com/RabiatS)
+[![Webiste: Web](https://img.shields.io/badge/website-86%25-magenta)](https://www.rabiatsadiq.com)
 📫 **Email:** robbiahsadiq@gmail.com
 
 ---
@@ -80,6 +81,18 @@ Research collaboration with Xbox exploring AI-driven approaches to measure and u
 - **Google SPS (2022)** — built “Talky Talky” (audio-responsive web app for non-verbal kids)
 
 ---
+---
+
+## Currently
+
+- 🎓 MHCI @ CMU — research, capstone (Amazon Music), XR lab
+- 🔬 Research Assistant @ CMU Augmented Perception Lab — multimodal XR + pain perception
+- 🎮 Xbox × CMU — AI-driven social interaction measurement in gaming
+
+
+---
+
+*[rabiatsadiq.com](https://rabiatsadiq.com) · [LinkedIn](https://www.linkedin.com/in/rabiat-sadiq/)*
 
 <!-- Spotify Now Playing (optional) -->
 
