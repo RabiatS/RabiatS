@@ -9,7 +9,9 @@
 
 
 **MS Human-Computer Interaction (CMU)** | **BS Computer Engineering + CS minor (UTSA)**  
-I build things that sit at the edge of what's technically possible and what actually matters to people. Engineer across software, hardware, AI and XR. Experience in ML/CV, XR prototyping, mobile, and full-stack systems. Fast learner and strong builder. I like projects where I can connect multiple disciplines, ship something real, and keep learning. Especially when it means turning messy problems into usable tools
+I build things that sit at the edge of what's technically possible and what actually matters to people.
+
+Engineer across software, hardware, AI and XR. Experience in ML/CV, XR prototyping, mobile, and full-stack systems. Fast learner and strong builder. I like projects where I can connect multiple disciplines, ship something real, and keep learning. Especially when it means turning messy problems into usable tools
 
 [![Linkedin: Rabiatsadiq](https://img.shields.io/badge/-rabiatsadiq-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rabiat-sadiq/)
 [![GitHub RabiatS](https://img.shields.io/github/followers/rabiats?label=follow&style=social)](https://github.com/RabiatS)
