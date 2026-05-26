@@ -9,7 +9,7 @@
 
 
 **MS Human-Computer Interaction (CMU)** | **BS Computer Engineering + CS minor (UTSA)**  
-I build things that sit at the edge of what's technically possible and what actually matters to people.
+Problem solver first. I look at how things actually work in nature, in systems, in people - then build from there.
 
 Engineer across software, hardware, AI and XR. Experience in ML/CV, XR prototyping, mobile, and full-stack systems. Fast learner and strong builder. I like projects where I can connect multiple disciplines, ship something real, and keep learning. Especially when it means turning messy problems into usable tools
 
