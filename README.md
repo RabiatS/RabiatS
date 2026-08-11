@@ -90,7 +90,7 @@ Research collaboration with Xbox exploring AI-driven approaches to measure and u
 ---
 
 
-<!-- Spotify Now Playing (optional) -->
+<!-- Spotify Now Playing (optional) fixed?-->
 
 <div align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
