@@ -27,7 +27,7 @@ I am always learning and building something. If you want to reach out, shoot me 
 - **[Assuage](https://github.com/RabiatS/final-project-aimleaders)**, distress prediction from HealthKit biometrics with on-device Core ML inference
 - **[Magic Mitts](https://github.com/RabiatS/MagicMitts---Smart-VR-Gloves)**, a haptic VR glove under $50, first of 89 teams at UTSA
 - **[Lantern](https://github.com/RabiatS/lantern)**, a language model that lives entirely on the iPhone
-- **[VR Music Visualizer](https://github.com/RabiatS/VR-music-visualizer)**, audio-reactive 3D environments on Quest 2 with hand tracking
+- **[VR Music Visualizer](https://github.com/RabiatS/VR-music-visualizer)**, audio-reactive 3D environments on Quest 2 with hand tracking (working on a Vision Pro version)
 
 Everything else is on [rabiatsadiq.com/projects](https://www.rabiatsadiq.com/projects.html).
 
