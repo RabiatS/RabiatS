@@ -1,96 +1,80 @@
 ## Hi, I am Rabiat 👋🏾
 
-<!-- <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/> -->
-<!-- <img align="right" src="https://github.com/user-attachments/assets/5c68c4fd-2c74-45fb-93ff-11b75393c440" width="230"/> -->
-
 <img align="right" src="https://github.com/user-attachments/assets/cdf7b5fb-a155-4112-968c-b1071dbb8872" width="230"/>
 
+**MS Human-Computer Interaction, CMU (2026)** | **BS Computer Engineering + CS minor, UTSA**
+Problem solver first. I look at how things actually work, in nature, in systems, in people, then build from there.
 
+Engineer across software, hardware, AI and XR. Designer and user researcher too, which mostly means I care how people actually use things. Lately I have been a little into the device in your hand, or the one on your face, whether that is AI/ML or extended reality.
 
-
-**MS Human-Computer Interaction (CMU)** | **BS Computer Engineering + CS minor (UTSA)**  
-Problem solver first. I look at how things actually work in nature, in systems, in people - then build from there.
-
-Engineer across software, hardware, AI and XR. Experience in ML/CV, XR prototyping, mobile, and full-stack systems. Fast learner and strong builder. I like projects where I can connect multiple disciplines, ship something real, and keep learning. Especially when it means turning messy problems into usable tools
-
-[![Linkedin: Rabiatsadiq](https://img.shields.io/badge/-rabiatsadiq-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rabiat-sadiq/)
-[![GitHub RabiatS](https://img.shields.io/github/followers/rabiats?label=follow&style=social)](https://github.com/RabiatS)
-[![Webiste: Web](https://img.shields.io/badge/website-86%25-magenta)](https://www.rabiatsadiq.com)
+[![LinkedIn](https://img.shields.io/badge/-rabiat--sadiq-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rabiat-sadiq/)
+[![GitHub followers](https://img.shields.io/github/followers/rabiats?label=follow&style=social)](https://github.com/RabiatS)
+[![Website](https://img.shields.io/badge/website-rabiatsadiq.com-magenta?style=flat-square)](https://www.rabiatsadiq.com)
+[![Field Notes](https://img.shields.io/badge/writing-Field%20Notes-7c3aed?style=flat-square)](https://www.rabiatsadiq.com/writing.html)
 📫 **Email:** robbiahsadiq@gmail.com
+I am always learning and building something. If you want to reach out, shoot me an email.
 
 ---
 
 ### What I work on 🧠⚙️
-- **Applied ML / CV / Video pipelines** (OpenCV, FFmpeg, Ray, Databricks, PySpark, MLflow, AWS S3)
-- **XR prototyping** in Unity (C#) with a human-centered focus (perception, interaction, accessibility)
-- **AI product systems** (LLM-backed tools that are grounded in real app context)
+- **Applied ML / CV / audio**: PyTorch, OpenCV, FFmpeg, Ray, MLflow, and getting models out of the notebook and into something that runs
+- **HCI, interaction design and UX research**: interviews, surveys, usability testing, prototyping, accessibility, and the question of what a body already knows how to do
+- **On-device ML and mobile**: SwiftUI apps that run models locally (MLX, Core ML), with a phone's memory and thermal budget taken seriously
+- **Wearables and XR**: Unity, haptics, watchOS, visionOS
 
-### Featured projects 🚀
+### A few things I have built 🚀
+- **[Amazon Music Adaptive UI](https://www.rabiatsadiq.com/case-studies/case-study-amazon-music.html)**, CMU MHCI capstone, eight months of research into music discovery
+- **[Assuage](https://github.com/RabiatS/final-project-aimleaders)**, distress prediction from HealthKit biometrics with on-device Core ML inference
+- **[Magic Mitts](https://github.com/RabiatS/MagicMitts---Smart-VR-Gloves)**, a haptic VR glove under $50, first of 89 teams at UTSA
+- **[Lantern](https://github.com/RabiatS/lantern)**, a language model that lives entirely on the iPhone
+- **[VR Music Visualizer](https://github.com/RabiatS/VR-music-visualizer)**, audio-reactive 3D environments on Quest 2 with hand tracking
 
-<!--
-- **Amazon Music: Project Manager & Engineer**  
-CMU MHCI capstone project partnering with Amazon Music to explore and enhance the music discovery experience.
-- **Microsoft XBOX: Technical Researcher**
-Research collaboration with Xbox exploring AI-driven approaches to measure and understand social interactions in gaming environments.
--->
+Everything else is on [rabiatsadiq.com/projects](https://www.rabiatsadiq.com/projects.html).
 
-- **Assuage (iOS): Sensing → ML distress prediction**  
-  HealthKit biometrics → real-time distress prediction with on-device inference (Swift/Core ML patterns)
-- **Magic Mitts: affordable haptic VR glove (Capstone)**  
-  Flex sensing, Hand Tracking + electromagnetic braking + Unity integration (1st place UTSA Tech Symposium)
-- **PlayStation: Gameplay video context extraction (internship)**  
-  Scalable video pipeline using S3, Ray, FFmpeg, OpenCV/OCR, Databricks/PySpark, MLflow 
-- **VR Music Visualizer (Unity / Quest 2)**  
-  Interactive music-reactive VR visuals with planned hand-tracking interactions
-- **Computer Vision projects**  
-  YOLOv5 vehicle detection + CNN-based image classification work (NACME)
-- **Talky Talky (Google SPS)**  
-  Audio-responsive web app to support non-verbal kids using Text-to-Speech APIs
-<!--
-- **Applied STEM (Startup): context-aware circuit interview mentor**  
-  React/TypeScript + FastAPI + LLMs grounded in circuit state + simulation outputs for adaptive hints
+### Writing ✍🏾
 
-> I am currently cleaning up repos and adding short READMEs + demos for the projects above.
--->
+Longer pieces at [Field Notes](https://www.rabiatsadiq.com/writing.html): why I started things, what the research says, what I got wrong, and the occasional ten-second thought.
+
 ---
 ### Toolbelt 🧰
 
 | Area | Tools |
 |---|---|
-| **Languages** | Python • C++ • C • Swift • Java • TypeScript/JavaScript • SQL |
-| **ML / CV** | PyTorch • TensorFlow • scikit-learn • OpenCV • NumPy • pandas • EDA • model evaluation |
-| **Video / Data** | FFmpeg • Ray • Databricks • PySpark • MLflow • AWS S3 • Snowflake |
-| **XR / 3D** | Unity (C#) • Meta XR SDK • VR prototyping |
-| **Mobile** | iOS (HealthKit, Core ML) • Android (Firebase, SQLite) |
-| **Build / Collab** | Git/GitHub • Docker • CI/CD • Jira • Confluence • Jupyter |
+| **Languages** | Swift • Python • TypeScript/JavaScript • C++ • C • Java • SQL |
+| **Mobile and wearables** | SwiftUI • iOS • watchOS • visionOS • Core ML • MLX Swift • React Native / Expo • Android (Firebase, SQLite) |
+| **ML / CV / audio** | PyTorch • torchaudio • scikit-learn • OpenCV • NumPy • pandas • Core ML export |
+| **Video / data** | FFmpeg • Ray • Databricks • PySpark • MLflow • AWS S3 |
+| **Web** | React • Vite • Supabase • Vercel |
+| **XR / 3D** | Unity (C#) • Meta XR SDK • RealityKit • VR prototyping |
+| **UX research and design** | Interviews • surveys • usability testing • affinity diagramming • co-design • heuristic evaluation • Wizard of Oz • Figma • Figma Make • Miro |
 
 <details>
   <summary><b>Also used</b></summary>
 
-- **Deep Learning:** CNNs, transfer learning, autoencoders, RNNs, embeddings  
-- **Classical ML:** clustering (k-means), PCA, SVM, decision trees, fairness/responsible AI  
-- **Hardware / Embedded:** Arduino, Raspberry Pi, ESP32, sensors, Verilog, PSpice, MATLAB
-- Figma, AWS, Vercel, Claude, cursor, AR Smart Glasses, Notion, Multimodal- ML
+- **Deep learning:** CNNs, attention pooling, transfer learning, autoencoders, RNNs, embeddings, quantisation
+- **Classical ML:** clustering (k-means), PCA, SVM, decision trees, fairness and responsible AI
+- **Hardware / embedded:** Arduino, Raspberry Pi, ESP32, sensors, Verilog, PSpice, MATLAB
+- **AI-augmented development:** agentic coding with Claude Code and Cursor, building with AI alongside me rather than instead of me
+- Docker, CI/CD, Git/GitHub, Jira, Notion, AR smart glasses, multimodal ML
 </details>
 
 ---
 
-### Programs and experience  🎓
-- **Applied ML Intern (PlayStation)** — video pipeline + scalable processing (S3, Ray, FFmpeg, OpenCV, Databricks)
-- **Apple NACME AI/ML Intensive (USC)** — 35 hands-on ML projects across CV, NLP, clustering, deep learning
-- **Google SPS (2022)** — built “Talky Talky” (audio-responsive web app for non-verbal kids)
+### Programs and experience 🎓
+- **Amazon Music × CMU MHCI capstone** (2026), research lead and engineer on an eight-month applied engagement
+- **Applied ML Intern, PlayStation** (2025), video pipeline and scalable processing
+- **Research Assistant, CMU Augmented Perception Lab**, multimodal XR and pain perception
+- **Xbox × CMU** (course collaboration), AI-driven measurement of social interaction in gaming
+- **Apple NACME AI/ML Intensive, USC** (2024), 35 hands-on ML projects across CV, NLP, clustering and deep learning
+- **Google SPS** (2022), built Talky Talky, an audio-responsive web app for non-verbal kids
 
 #### Currently
 
-- 🎓 MHCI @ CMU - research, capstone (Amazon Music), XR lab
-- 🔬 Research Assistant @ CMU Augmented Perception Lab - multimodal XR + pain perception
-- 🎮 Xbox × CMU - AI-driven social interaction measurement in gaming
-
+- 📱 Building things that run on the device: Lantern, the Watch as an input surface, and whatever the next sleepless night produces
+- ✍🏾 Writing at [Field Notes](https://www.rabiatsadiq.com/writing.html)
+- 🔍 Open to roles at the intersection of engineering, applied ML and design, and to every little thing in between that only makes sense if you work across disciplines
 
 ---
-
-
-<!-- Spotify Now Playing (optional) fixed?-->
 
 <div align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=227cg7ehrjpmdh54zp7epu7wq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
@@ -98,6 +82,5 @@ Research collaboration with Xbox exploring AI-driven approaches to measure and u
   </a>
 </div>
 
-
-😄 **Pronouns:** she/her  
-⚡ **Fun fact:** I love sci-fi + psychological movies, XR, and sleep (in that order 😄...backwards)
+😄 **Pronouns:** she/her
+⚡ **Fun fact:** I love sci-fi and psychological movies, XR, and sleep (in that order 😄, backwards)
